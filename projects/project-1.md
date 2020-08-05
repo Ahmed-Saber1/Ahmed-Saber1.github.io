@@ -1,18 +1,17 @@
 ---
 layout: project
 type: project
-image: images/IOT.jpeg
-title: Critical Rooms Security System
-permalink: projects/IOT
+image: images/vacay-square.png
+title: Vacay
+permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2019-06-21
+date: 2015-12-15
 labels:
-  - Robotics
-  - Arduino
-  - C++
-  - C#
-  - Red-node
-summary:My team and I created an IOT based security system that detects water leaks, temperature increase, smoke, and humidity levels. We added a little bit of machine learning that can predict when a fire incident will rise then locate and call the nearest fire department.
+  - Javascript
+  - Meteor
+  - MongoDB
+  - GitHub
+summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
@@ -24,6 +23,3 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
-
-
-
