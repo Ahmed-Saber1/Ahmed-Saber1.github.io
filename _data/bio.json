@@ -1,39 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Ahmed Saber",
+    "label": "Software Engineer",
+    "picture": "https://ahmed-saber1.github.io/template/images/molly.png",
+    "email": "ahmadsaber298@gmail.com",
+    "phone": "01152002065",
+    "website": "https://ahmed-saber1.github.io",
+    "summary": "Enthusiastic software engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of web development and software testing. Motivated to learn, grow and excel in the computer science industry",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Cairo",
+      "countryCode": "Egypt",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ahmed-saber1",
+        "url": "http://github.com/ahmed-saber1"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ahmed-saber",
+        "url": "http://linkedin.com/in/ahmed-saber-b07170192"
       }
     ]
   },
@@ -41,17 +31,16 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Arduino"
       ]
     },
     {
-      "name": "data mining",
+      "name": "sofrware engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "web developing",
       "keywords": [
       ]
     }
