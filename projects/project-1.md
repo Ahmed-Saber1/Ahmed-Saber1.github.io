@@ -11,7 +11,7 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary:My team and I created an IOT based security system that detects water leaks, temperature increase, smoke, and humidity levels. We added a little bit of machine learning that can predict when a fire incident will rise then locate and call the nearest fire department.
+summary:My team and I created an IOT based security system that detects water leaks, temperature increase, smoke, and humidity levels.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
