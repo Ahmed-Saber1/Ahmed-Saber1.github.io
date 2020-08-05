@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/IOT.jpeg
-title: Vacay
+title: Critical Rooms Security System
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
