@@ -1,16 +1,18 @@
 ---
 layout: project
 type: project
-image: images/Hotel.jpg
-title: Hotel Booking System
-permalink: projects/Hotels
+image: images/IOT.jpeg
+title: Critical Rooms Security System
+permalink: projects/IOT
 # All dates must be YYYY-MM-DD format!
-date: 2020-08-1
+date: 2019-06-21
 labels:
-  - HTML
-  - CSS
-  - PHP
-  - Laravel
-summary: A simple hotel booking system that i built while learning that allows you to CRUD clients and reservations. 
+  - Robotics
+  - Arduino
+  - C++
+  - C#
+  - Red-node
+summary: My team and I created an IOT based security system that detects water leaks, temperature increase, smoke, and humidity levels. We added a little bit of machine learning that can predict when a fire incident will rise then locate and call the nearest fire department.
 ---
+
 
