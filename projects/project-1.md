@@ -11,7 +11,7 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary:My team and I created an IOT based security system that detects water leaks temperature increase smoke and humidity levels.
+summary: My team and I created an IOT based security system that detects water leaks temperature increase smoke and humidity levels.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
