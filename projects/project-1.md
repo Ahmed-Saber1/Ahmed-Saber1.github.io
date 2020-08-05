@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/IOT.jpeg
 title: Critical Rooms Security System
+permalink: projects/IOT
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-21
 labels:
