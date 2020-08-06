@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Hotel.jpg
+image: images/IOT.jpeg
 title: Hotel Booking 
 permalink: projects/IOT
 # All dates must be YYYY-MM-DD format!
