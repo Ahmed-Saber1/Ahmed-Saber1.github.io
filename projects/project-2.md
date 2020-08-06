@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/IOT.jpeg
-title: Hotel Booking 
+title: Critical Rooms Security System
 permalink: projects/IOT
 # All dates must be YYYY-MM-DD format!
-date: 2019-08-1
+date: 2019-06-21
 labels:
   - Robotics
   - Arduino
