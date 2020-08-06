@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IOT.jpeg
+image: images/Hotel.jpg
 title: Critical Rooms Security System
 permalink: projects/IOT
 # All dates must be YYYY-MM-DD format!
