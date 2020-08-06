@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Hotel.jpg
-title: Critical Rooms Security System
+title: Booking System
 permalink: projects/IOT
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-21
