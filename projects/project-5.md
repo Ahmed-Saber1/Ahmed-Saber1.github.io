@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: images/maze.jpg
-title: Maze Game
+title: The Maze
 permalink: projects/maze
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-6
+date: 2019-06-21
 labels:
   - C#
-summary: A virtual maze game where you have to lead the gnome throught a maze until you reach the exit.
+summary: A game where the user has to lead the gnome through a maze until it reaches the exit.
 ---
+
 
 
