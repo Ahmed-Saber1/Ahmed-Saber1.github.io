@@ -5,11 +5,10 @@ image: images/Health.png
 title: Android Health Tracking System
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Android
+summary: An android app that tracks the user's steps, heartbeat, calories consumption, and calories burnt
 ---
 
 
