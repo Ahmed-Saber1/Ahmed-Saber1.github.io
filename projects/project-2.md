@@ -5,7 +5,7 @@ image: images/IOT.jpeg
 title: Hotel Booking 
 permalink: projects/IOT
 # All dates must be YYYY-MM-DD format!
-date: 2020-08-1
+date: 2019-08-1
 labels:
   - Robotics
   - Arduino
