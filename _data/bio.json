@@ -52,31 +52,28 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "SQL",
+        "PHP",
+        "Laravel"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/Github"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Ain Shams University - Egypt, Cairo",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2015-09-01",
+      "endDate": "2019-06-21",
       "gpa": "",
       "courses": [
       ]
